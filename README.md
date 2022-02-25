@@ -1,1 +1,21 @@
 # try-ml
+
+- Create dataset
+  - (optional) use Chrome extension
+- Visit Google Cloud Platform
+  - "Artificial Intelligence"
+  - Vision
+  - AutoML Vision
+  - Image Classification
+- Datasets
+  - Single label classification
+  - Select .zip
+  - Add a bucket
+  - Wait for import to complete
+  - Review labeled images
+- Training
+  - Start training
+- Test & Use
+  - (1) Test model on a new image
+  - (2) Rest API
+  - (3) Python script
